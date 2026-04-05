@@ -41,7 +41,7 @@
           <label class="text-xs text-white/60">Password</label>
           <input name="pass" type="password" autocomplete="current-password" class="mt-1 w-full rounded-2xl border border-white/10 bg-zinc-900/60 px-4 py-3 text-sm outline-none placeholder:text-white/30 focus:border-white/20 focus:bg-zinc-900" placeholder="••••••••">
         </div>
-        <button class="w-full rounded-2xl bg-white px-5 py-3 text-sm font-semibold text-zinc-950 hover:bg-white/90 transition" type="submit">Sign in</button>
+        <button class="w-full rounded-2xl bg-[#E4002B] px-5 py-3 text-sm font-semibold text-white hover:scale-105 transition-all duration-500 ease-in-out cursor-pointer" type="submit">Sign in</button>
       </form>
     </div>
   </div>

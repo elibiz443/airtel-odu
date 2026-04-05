@@ -112,7 +112,7 @@
         </div>
         <p class="text-sm text-slate-600 font-medium">Fiber installations include a one-time <span class="font-bold text-slate-900">KES 1,000</span> connection fee.</p>
       </div>
-      <a href="https://wa.me/+254 103 338 353" target="_blank" class="text-sm font-bold text-[#E4002B] hover:underline">Have questions? Chat with Sales →</a>
+      <a href="https://wa.me/+254103338353" target="_blank" class="text-sm font-bold text-[#E4002B] hover:underline">Have questions? Chat with Sales →</a>
     </div>
   </div>
 </section>

@@ -12,7 +12,7 @@
     <div class="hidden items-center gap-3 md:flex">
       <a href="#packages" class="nav-link rounded-full px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-200">Packages</a>
       <a href="#how-it-works" class="nav-link rounded-full px-4 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-200">How it works</a>
-      <a href="https://wa.me/+254 103 338 353" target="_blank" rel="noopener noreferrer" class="rounded-full bg-[#E4002B] px-5 py-1.5 text-sm font-semibold text-white shadow-md shadow-gray-400 border-2 border-[#E4002B] hover:bg-transparent hover:text-[#E4002B] transition-all duration-500 ease-in-out">Contact</a>
+      <a href="https://wa.me/+254103338353" target="_blank" rel="noopener noreferrer" class="rounded-full bg-[#E4002B] px-5 py-1.5 text-sm font-semibold text-white shadow-md shadow-gray-400 border-2 border-[#E4002B] hover:bg-transparent hover:text-[#E4002B] transition-all duration-500 ease-in-out">Contact</a>
     </div>
     <button id="open-sidebar" class="block md:hidden text-slate-700 p-2 cursor-pointer hover:text-[#E4002B] transition">
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8">
@@ -44,6 +44,6 @@
   <nav class="flex flex-col gap-4">
     <a href="#packages" class="nav-link text-lg font-medium text-slate-700 py-2 border-b border-slate-100 hover:text-[#E4002B] transition">Packages</a>
     <a href="#how-it-works" class="nav-link text-lg font-medium text-slate-700 py-2 border-b border-slate-100 hover:text-[#E4002B] transition">How it works</a>
-    <a href="https://wa.me/+254 103 338 353" target="_blank" class="mt-4 block text-center bg-[#E4002B] py-2 rounded-lg font-semibold text-white shadow-md shadow-gray-600 border-2 border-[#E4002B] hover:bg-transparent hover:text-[#E4002B] transition-all duration-500 ease-in-out">Contact Us</a>
+    <a href="https://wa.me/+254103338353" target="_blank" class="mt-4 block text-center bg-[#E4002B] py-2 rounded-lg font-semibold text-white shadow-md shadow-gray-600 border-2 border-[#E4002B] hover:bg-transparent hover:text-[#E4002B] transition-all duration-500 ease-in-out">Contact Us</a>
   </nav>
 </aside>

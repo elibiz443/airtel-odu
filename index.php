@@ -38,5 +38,6 @@
   <script src="<?php echo ROOT_URL; ?>/assets/js/header.js"></script>
   <script src="<?php echo ROOT_URL; ?>/assets/js/modal.js"></script>
   <script src="<?php echo ROOT_URL; ?>/assets/js/area.js"></script>
+  <script src="<?php echo ROOT_URL; ?>/assets/js/scroll_to_top.js"></script>
 </body>
 </html>
