@@ -231,7 +231,7 @@
   </main>
 
   <footer class="mt-20 border-t border-white/5 bg-zinc-900/40 py-10 backdrop-blur-sm">
-    <div class="mx-auto max-w-6xl px-4 flex flex-col md:flex-row justify-between items-center gap-6">
+    <div class="w-[90%] mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
       <div class="text-center md:text-left">
         <div class="text-lg font-black text-white tracking-tighter uppercase">Admin<span class="text-red-600">Portal</span></div>
         <p class="text-[10px] font-bold text-white/30 uppercase tracking-[0.2em] mt-1">&copy; <?php echo date('Y'); ?> All rights reserved</p>
@@ -250,7 +250,7 @@
     </div>
   </footer>
 
-  <button id="scrollToTop"  class="fixed bottom-8 right-8 z-[90] flex h-12 w-12 translate-y-20 items-center justify-center rounded-2xl border border-white/10 bg-zinc-900/80 text-white opacity-0 backdrop-blur-md transition-all duration-500 hover:bg-red-600 hover:shadow-2xl hover:shadow-red-600/40 cursor-pointer"
+  <button id="scrollToTop"  class="fixed bottom-15 right-10 z-[90] flex h-12 w-12 translate-y-20 items-center justify-center rounded-2xl border border-white/10 bg-zinc-900/80 text-white opacity-0 backdrop-blur-md transition-all duration-500 hover:bg-red-600 hover:shadow-2xl hover:shadow-red-600/40 cursor-pointer"
   >
     <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 15l7-7 7 7"/>

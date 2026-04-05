@@ -1,4 +1,4 @@
-<section class="flex min-h-[18rem] items-center justify-center bg-gradient-to-br from-[#E4002B]/20 via-orange-100 to-[#E4002B]/10">
+<section class="flex min-h-[18rem] 2xl:min-h-[22rem] items-center justify-center bg-gradient-to-br from-[#E4002B]/20 via-orange-100 to-[#E4002B]/10">
   <div class="w-[90%] mx-auto">
     <div class="grid gap-6 rounded-[2.5rem] border border-slate-100 bg-white p-8 shadow-lg shadow-gray-500 lg:grid-cols-[1fr_auto] lg:items-center">
       <div class="space-y-3">
@@ -7,10 +7,10 @@
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#E4002B] opacity-75"></span>
             <span class="relative inline-flex h-3 w-3 rounded-full bg-[#E4002B]"></span>
           </span>
-          <p class="text-[10px] font-black uppercase tracking-[0.2em] text-[#E4002B]">Support Online</p>
+          <p class="text-sm 2xl:text-lg font-black uppercase tracking-[0.2em] text-[#E4002B]">Support Online</p>
         </div>
-        <h2 class="text-3xl font-black tracking-tight text-slate-900 leading-tight">Need immediate assistance?</h2>
-        <p class="max-w-xl text-sm leading-relaxed text-slate-600">Our agents are ready to help with coverage checks, technical queries, or custom plan recommendations. Chat with us directly for a faster setup experience.</p>
+        <h2 class="text-3xl 2xl:text-5xl font-black tracking-tight text-slate-900 leading-tight">Need immediate assistance?</h2>
+        <p class="max-w-xl text-sm 2xl:text-lg leading-relaxed text-slate-600">Our agents are ready to help with coverage checks, technical queries, or custom plan recommendations. Chat with us directly for a faster setup experience.</p>
       </div>
       <div class="flex flex-col gap-3 sm:flex-row lg:flex-col">
         <a href="https://wa.me/+254103338353" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-3 rounded-2xl bg-[#25D366] px-8 py-4 text-base font-bold text-white shadow-xl shadow-emerald-500/20 transition hover:bg-[#22c35e] hover:-translate-y-0.5">
@@ -19,7 +19,7 @@
           </svg>
           <span>Open WhatsApp</span>
         </a>
-        <p class="text-center text-[10px] font-bold uppercase tracking-wider text-slate-400">Response time: &lt; 5 mins</p>
+        <p class="text-center text-sm 2xl:text-lg font-bold uppercase tracking-wider text-slate-400">Response time: &lt; 5 mins</p>
       </div>
     </div>
   </div>
