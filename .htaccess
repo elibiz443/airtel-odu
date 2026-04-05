@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /airtel-odu/
+
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+RewriteRule ^auth/login$ admin/views/auth/login.php [L,QSA]
+RewriteRule ^dashboard$ admin/views/dashboard/index.php [L,QSA]
+RewriteRule ^dashboard/export$ admin/views/dashboard/export.php [L,QSA]
